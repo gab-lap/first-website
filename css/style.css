@@ -1,0 +1,25 @@
+.next-page{
+    background-color: rgb(184, 16, 16);
+    color: white;
+    font-size: 15px;
+    height: 40px;
+    width: 120px;
+    border-radius: 5px;
+    border-style: solid;
+    border: none;
+    margin-top: 8px;
+    cursor: pointer;
+}
+
+.previous-page{
+    background-color: white;
+    color: rgb(9, 122, 214);
+    border-color: rgb(9, 122, 214);
+    height: 35px;
+    font-size: 15px;
+    border-radius: 2px;
+    border-width: 2px;
+    border-style: solid;
+    cursor: pointer;
+    margin-top: 8px;
+}
